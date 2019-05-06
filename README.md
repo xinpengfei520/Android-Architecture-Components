@@ -30,3 +30,9 @@ ViewModel 与 LiveData 之间的关系图：
 Room 架构图：
 
 ![image](https://github.com/xinpengfei520/Android-Architecture-Components/blob/master/images/arch4.png)
+
+## Reference Link
+
+[https://developer.android.com/topic/libraries/architecture/livedata#java](https://developer.android.com/topic/libraries/architecture/livedata#java)
+
+[Android Architecture Components 只看这一篇就够了](https://juejin.im/post/5b30e39bf265da599423510a)

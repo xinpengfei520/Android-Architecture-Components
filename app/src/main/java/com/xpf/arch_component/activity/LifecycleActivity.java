@@ -11,9 +11,9 @@ import com.xpf.arch_component.observer.ActivityLifeObserver;
 import com.xpf.arch_component.observer.LocationLifeObserver;
 import com.xpf.arch_component.utils.LogUtils;
 
-public class DetailActivity extends AppCompatActivity implements LifecycleOwner {
+public class LifecycleActivity extends AppCompatActivity implements LifecycleOwner {
 
-    private static String TAG = DetailActivity.class.getSimpleName();
+    private static String TAG = LifecycleActivity.class.getSimpleName();
     private LifecycleRegistry mLifecycleRegistry;
     private ActivityLifeObserver activityLifeObserver;
     private LocationLifeObserver locationLifeObserver;

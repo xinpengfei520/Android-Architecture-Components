@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ListActivity">
+
+    <Button
+        android:id="@+id/btnLiveDataViewModel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LiveDataViewModel"
+        android:textAllCaps="false"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnLifecycle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lifecycle"
+        android:textAllCaps="false"
+        app:layout_constraintTop_toBottomOf="@id/btnLiveDataViewModel" />
+
+    <Button
+        android:id="@+id/btnMvpLifecycle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mvp Lifecycle"
+        android:textAllCaps="false"
+        app:layout_constraintTop_toBottomOf="@id/btnLifecycle" />
+
+</android.support.constraint.ConstraintLayout>

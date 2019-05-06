@@ -7,5 +7,7 @@ package com.xpf.arch_component.base;
  */
 public interface BaseViewModel<T> {
 
+    T loadData();
 
+    void clearData();
 }
