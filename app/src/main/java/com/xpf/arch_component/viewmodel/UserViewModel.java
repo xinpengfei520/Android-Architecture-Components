@@ -10,8 +10,7 @@ import com.xpf.arch_component.bean.User;
  * GitHub:xinpengfei520
  * Function:
  */
-public class UserViewModel extends ViewModel
-        implements BaseViewModel<User> {
+public class UserViewModel extends ViewModel implements BaseViewModel<User> {
 
 
 }

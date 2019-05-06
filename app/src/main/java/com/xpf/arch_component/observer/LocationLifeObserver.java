@@ -12,8 +12,7 @@ import com.xpf.arch_component.utils.LogUtils;
  * GitHub:xinpengfei520
  * Function:
  */
-public class LocationLifeObserver implements BaseActivityPresenter,
-        LifecycleObserver {
+public class LocationLifeObserver implements BaseActivityPresenter, LifecycleObserver {
 
     private static final String TAG = LocationLifeObserver.class.getSimpleName();
 

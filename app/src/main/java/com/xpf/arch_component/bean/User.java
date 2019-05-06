@@ -8,9 +8,7 @@ package com.xpf.arch_component.bean;
 public class User {
 
     private String userId;
-
     private String name;
-
     private String phone;
 
     public User() {

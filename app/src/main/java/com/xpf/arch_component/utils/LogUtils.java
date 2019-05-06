@@ -8,7 +8,6 @@ import com.xpf.arch_component.BuildConfig;
  * Created by xpf on 2017/9/22 :)
  * Function: logger utils.
  */
-
 public class LogUtils {
 
     // default open log print.
