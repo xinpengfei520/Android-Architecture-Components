@@ -33,6 +33,16 @@ Room 架构图：
 
 ## Reference Link
 
+[https://developer.android.com/topic/libraries/architecture/](https://developer.android.com/topic/libraries/architecture/)
+
+[https://developer.android.com/reference/android/arch/lifecycle/package-summary](https://developer.android.com/reference/android/arch/lifecycle/package-summary)
+
+[https://developer.android.google.cn/training/data-storage/room/](https://developer.android.google.cn/training/data-storage/room/)
+
+[https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#2](https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#2)
+
+[https://github.com/googlesamples/android-architecture-components](https://github.com/googlesamples/android-architecture-components)
+
 [https://developer.android.com/topic/libraries/architecture/livedata#java](https://developer.android.com/topic/libraries/architecture/livedata#java)
 
 [Android Architecture Components 只看这一篇就够了](https://juejin.im/post/5b30e39bf265da599423510a)

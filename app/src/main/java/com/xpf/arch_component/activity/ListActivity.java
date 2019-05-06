@@ -12,6 +12,7 @@ public class ListActivity extends AppCompatActivity {
     private Button btnLiveDataViewModel;
     private Button btnLifecycle;
     private Button btnMvpLifecycle;
+    private Button btnRoom;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,10 +22,12 @@ public class ListActivity extends AppCompatActivity {
         btnLiveDataViewModel = findViewById(R.id.btnLiveDataViewModel);
         btnLifecycle = findViewById(R.id.btnLifecycle);
         btnMvpLifecycle = findViewById(R.id.btnMvpLifecycle);
+        btnRoom = findViewById(R.id.btnRoom);
 
         btnLiveDataViewModel.setOnClickListener(v -> startActivity(LiveDataViewModelActivity.class));
         btnLifecycle.setOnClickListener(v -> startActivity(LifecycleActivity.class));
         btnMvpLifecycle.setOnClickListener(v -> startActivity(MvpLifecycleActivity.class));
+        btnRoom.setOnClickListener(v -> startActivity(RoomActivity.class));
     }
 
     private void startActivity(Class<?> clazz) {

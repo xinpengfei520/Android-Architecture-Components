@@ -4,38 +4,38 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activity.ListActivity">
+    tools:context=".activity.RoomActivity">
 
     <Button
-        android:id="@+id/btnLiveDataViewModel"
+        android:id="@+id/btnAdd"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="LiveDataViewModel"
+        android:text="Add"
         android:textAllCaps="false"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/btnLifecycle"
+        android:id="@+id/btnDelete"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Lifecycle"
+        android:text="Delete"
         android:textAllCaps="false"
-        app:layout_constraintTop_toBottomOf="@id/btnLiveDataViewModel" />
+        app:layout_constraintTop_toBottomOf="@id/btnAdd" />
 
     <Button
-        android:id="@+id/btnMvpLifecycle"
+        android:id="@+id/btnUpdate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Mvp Lifecycle"
+        android:text="Update"
         android:textAllCaps="false"
-        app:layout_constraintTop_toBottomOf="@id/btnLifecycle" />
+        app:layout_constraintTop_toBottomOf="@id/btnDelete" />
 
     <Button
-        android:id="@+id/btnRoom"
+        android:id="@+id/btnQuery"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Room"
+        android:text="Query"
         android:textAllCaps="false"
-        app:layout_constraintTop_toBottomOf="@id/btnMvpLifecycle" />
+        app:layout_constraintTop_toBottomOf="@id/btnUpdate" />
 
 </android.support.constraint.ConstraintLayout>
