@@ -1,46 +1,68 @@
 package com.xpf.arch_component.bean;
 
 import android.arch.persistence.room.ColumnInfo;
-import android.arch.persistence.room.Embedded;
 import android.arch.persistence.room.Entity;
-import android.arch.persistence.room.Ignore;
 import android.arch.persistence.room.PrimaryKey;
 
 /**
  * Created by x-sir on 2019/5/6 :)
- * Function:
+ * Function:定义订单表
  */
 @Entity(tableName = "orders")
 public class Order {
 
     /**
-     * 主键
+     * 订单 id (主键)
      */
     @PrimaryKey
     @ColumnInfo(name = "order_id")
-    public long orderId;
-    @ColumnInfo(name = "address")
-    public String address;
-    @ColumnInfo(name = "owner_name")
-    public String ownerName;
-    @ColumnInfo(name = "owner_phone")
-    public String ownerPhone;
-
+    private long orderId;
     /**
-     * 指示 Room 需要忽略的字段或方法
+     * 姓名
      */
-    @Ignore
-    public String ignoreText;
+    @ColumnInfo(name = "name")
+    private String name;
+    /**
+     * 手机
+     */
+    @ColumnInfo(name = "phone")
+    private String phone;
+    /**
+     * 订单地址
+     */
+    @ColumnInfo(name = "address")
+    private String address;
 
-    @Embedded
-    public OwnerAddress ownerAddress;
+    public long getOrderId() {
+        return orderId;
+    }
 
-    public static class OwnerAddress {
-        public String street;
-        public String state;
-        public String city;
-        @ColumnInfo(name = "post_code")
-        public int postCode;
+    public void setOrderId(long orderId) {
+        this.orderId = orderId;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public void setPhone(String phone) {
+        this.phone = phone;
     }
 
     /*

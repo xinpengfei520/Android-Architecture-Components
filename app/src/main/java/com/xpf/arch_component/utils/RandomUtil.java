@@ -8,6 +8,8 @@ import java.util.Random;
  */
 public class RandomUtil {
 
+    private static final String SHANGHAI = "Shanghai";
+
     public static String getRandomNumber() {
         int num = (int) ((Math.random() * 9 + 1) * 100000);
         return String.valueOf(num);
@@ -27,5 +29,9 @@ public class RandomUtil {
     public static String getRandomPhone() {
         int num = (int) ((Math.random() * 9 + 1) * 100000);
         return "13800" + num;
+    }
+
+    public static String getAddress() {
+        return SHANGHAI;
     }
 }

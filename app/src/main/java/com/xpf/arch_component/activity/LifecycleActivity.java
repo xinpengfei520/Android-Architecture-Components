@@ -13,7 +13,7 @@ import com.xpf.arch_component.utils.LogUtils;
 
 /**
  * Created by x-sir on 2019/5/7 :)
- * Function:AbstractDatabase 的实现类
+ * Function:AppDatabase 的实现类
  */
 public class LifecycleActivity extends AppCompatActivity implements LifecycleOwner {
 

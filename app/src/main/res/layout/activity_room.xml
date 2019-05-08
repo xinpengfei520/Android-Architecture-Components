@@ -38,4 +38,11 @@
         android:textAllCaps="false"
         app:layout_constraintTop_toBottomOf="@id/btnUpdate" />
 
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnQuery" />
+
 </android.support.constraint.ConstraintLayout>
