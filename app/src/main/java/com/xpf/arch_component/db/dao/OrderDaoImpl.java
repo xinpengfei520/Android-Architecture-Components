@@ -21,7 +21,7 @@ import java.util.List;
  */
 public class OrderDaoImpl implements OrderDao {
 
-    private RoomDatabase mDbManager;
+    private RoomDatabase mRoomDatabase;
     private EntityInsertionAdapter<Order> insertionAdapterOfOrder;
     private EntityDeletionOrUpdateAdapter<Order> deletionAdapterOfOrder;
     private EntityDeletionOrUpdateAdapter<Order> updateAdapterOfOrder;
@@ -31,11 +31,11 @@ public class OrderDaoImpl implements OrderDao {
     /**
      * Constructor
      */
-    public OrderDaoImpl(RoomDatabase dbManager) {
-        this.mDbManager = dbManager;
-        insertionAdapterOfOrder = new InsertionAdapterOfOrder(mDbManager);
-        deletionAdapterOfOrder = new DeletionAdapterOfOrder(mDbManager);
-        updateAdapterOfOrder = new UpdateAdapterOfOrder(mDbManager);
+    public OrderDaoImpl(RoomDatabase roomDatabase) {
+        this.mRoomDatabase = roomDatabase;
+        insertionAdapterOfOrder = new InsertionAdapterOfOrder(mRoomDatabase);
+        deletionAdapterOfOrder = new DeletionAdapterOfOrder(mRoomDatabase);
+        updateAdapterOfOrder = new UpdateAdapterOfOrder(mRoomDatabase);
     }
 
     @SuppressLint("RestrictedApi")
@@ -44,7 +44,7 @@ public class OrderDaoImpl implements OrderDao {
         @SuppressLint("RestrictedApi")
         RoomSQLiteQuery roomSQLiteQuery = RoomSQLiteQuery.acquire(SELECT_FROM_ORDERS, 0);
 
-        try (Cursor cursor = mDbManager.query(roomSQLiteQuery)) {
+        try (Cursor cursor = mRoomDatabase.query(roomSQLiteQuery)) {
             final int cursorIndexOfOrderId = cursor.getColumnIndexOrThrow("order_id");
             final int cursorIndexOfAddress = cursor.getColumnIndexOrThrow("address");
             final int cursorIndexOfOwnerName = cursor.getColumnIndexOrThrow("owner_name");
@@ -91,12 +91,12 @@ public class OrderDaoImpl implements OrderDao {
     @SuppressLint("RestrictedApi")
     @Override
     public void insertAll(Order... orders) {
-        mDbManager.beginTransaction();
+        mRoomDatabase.beginTransaction();
         try {
             insertionAdapterOfOrder.insert(orders);
-            mDbManager.setTransactionSuccessful();
+            mRoomDatabase.setTransactionSuccessful();
         } finally {
-            mDbManager.endTransaction();
+            mRoomDatabase.endTransaction();
         }
     }
 
@@ -108,24 +108,24 @@ public class OrderDaoImpl implements OrderDao {
     @SuppressLint("RestrictedApi")
     @Override
     public void deleteOrder(Order... orders) {
-        mDbManager.beginTransaction();
+        mRoomDatabase.beginTransaction();
         try {
             deletionAdapterOfOrder.handleMultiple(orders);
-            mDbManager.setTransactionSuccessful();
+            mRoomDatabase.setTransactionSuccessful();
         } finally {
-            mDbManager.endTransaction();
+            mRoomDatabase.endTransaction();
         }
     }
 
     @SuppressLint("RestrictedApi")
     @Override
     public void updateOrder(Order... orders) {
-        mDbManager.beginTransaction();
+        mRoomDatabase.beginTransaction();
         try {
             updateAdapterOfOrder.handleMultiple(orders);
-            mDbManager.setTransactionSuccessful();
+            mRoomDatabase.setTransactionSuccessful();
         } finally {
-            mDbManager.endTransaction();
+            mRoomDatabase.endTransaction();
         }
     }
 }

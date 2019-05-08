@@ -17,6 +17,10 @@ public class DbManager extends AbstractDatabase {
 
     private static final String TAG = "DbManager";
 
+    public DbManager() {
+
+    }
+
     @Override
     public OrderDao getOrderDao() {
         return new OrderDaoImpl(getInstance());

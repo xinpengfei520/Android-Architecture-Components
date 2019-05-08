@@ -9,6 +9,10 @@ import android.widget.TextView;
 import com.xpf.arch_component.R;
 import com.xpf.arch_component.viewmodel.UserViewModel;
 
+/**
+ * Created by x-sir on 2019/5/7 :)
+ * Function:
+ */
 public class LiveDataViewModelActivity extends AppCompatActivity {
 
     private UserViewModel mUserViewModel;

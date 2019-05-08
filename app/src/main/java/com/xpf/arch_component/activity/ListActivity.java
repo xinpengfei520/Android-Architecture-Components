@@ -7,6 +7,10 @@ import android.widget.Button;
 
 import com.xpf.arch_component.R;
 
+/**
+ * Created by x-sir on 2019/5/7 :)
+ * Function:
+ */
 public class ListActivity extends AppCompatActivity {
 
     private Button btnLiveDataViewModel;

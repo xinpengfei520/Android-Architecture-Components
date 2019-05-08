@@ -7,6 +7,10 @@ import com.xpf.arch_component.R;
 import com.xpf.arch_component.base.BaseActivityPresenter;
 import com.xpf.arch_component.presenter.ActivityPresenter;
 
+/**
+ * Created by x-sir on 2019/5/7 :)
+ * Function:
+ */
 public class MvpLifecycleActivity extends AppCompatActivity {
 
     private BaseActivityPresenter mBasePresenter;

@@ -11,6 +11,10 @@ import com.xpf.arch_component.observer.ActivityLifeObserver;
 import com.xpf.arch_component.observer.LocationLifeObserver;
 import com.xpf.arch_component.utils.LogUtils;
 
+/**
+ * Created by x-sir on 2019/5/7 :)
+ * Function:AbstractDatabase 的实现类
+ */
 public class LifecycleActivity extends AppCompatActivity implements LifecycleOwner {
 
     private static String TAG = LifecycleActivity.class.getSimpleName();

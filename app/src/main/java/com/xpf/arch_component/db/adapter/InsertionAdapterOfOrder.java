@@ -25,7 +25,7 @@ public class InsertionAdapterOfOrder extends EntityInsertionAdapter<Order> {
 
     @Override
     protected String createQuery() {
-        return "INSERT `orders` SET `order_id` = ?,`address` = ?,`owner_name` = ?,`owner_phone` = ? WHERE `order_id` = ?";
+        return "INSERT INTO `orders` VALUES(`order_id` = ?,`address` = ?,`owner_name` = ?,`owner_phone` = ?)";
     }
 
     @Override
