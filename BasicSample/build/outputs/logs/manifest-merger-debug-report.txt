@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:18:1-41:12
+MERGED from [androidx.databinding:databinding-adapters:3.2.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.2.1.aar/22ba745f7c32f49bb3627c0dd5c7faae/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.2.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.2.1.aar/c0877c418a13eba475b0e5908e2fabc4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/734f35da33bf40f7a4338ae6f46a5954/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/e77e7c33d4ed6fdcc3d92f9da521fc2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/611fabc910fb10342a7e162811f6647b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/84d00efc630ee49fcf5f07b2b8417cd2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/125ad0bf379c28a6ccea870e20976509/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha06.aar/307571a50dcf95df40f73538d7a3897b/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/6ad4ee8d45096df30d9e68c99599ec64/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fa1939d18519808b4604abae0a24612f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/c697248ebbc133e5a941fc5d162ab12c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/3432a7820b7f35418393337d18b2538f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/26caf6f32d2295cdb261f382368bbb1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/801a8cf4c4f305a8d0a63d9cff6ea235/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/ebad186988379029ef5242321ac7c4ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/4aa39f6b95dc0f929098ec229528ae62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/03cb87f42b4d2e33c215d130fbff78f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/335232e061f0347d0a206744e6b96954/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e132bace50cb998450e21792ba39f862/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/ac6b7b9e07381433e7e1afc867581f96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/e2573de6cb6762cca5d4c6a448262bc7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/10ab1305dbc393d257dd5ec6e85c7d9d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d3e631995b244bd6f37b2ddb71dbe11b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/30032f3bddf6d3e00d317710c0be4eb3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/bb86f1b118236d936540630749a80cb7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/dcda18b3ea52c8643952efc55b75f099/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/7f2f950d96b48060f322503899d76dc2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/082da13114c7f514325cc8b5ad3b66d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/98504f0c857937193a47dbbb4ebd56bc/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/449189ffb16373cfec1f3d1ac67504be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2139f8ba5b42b679f0b20eb808e2571c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b2707071cc09c2c6cf7ab0af0c88e7ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/9fc8480188562f7de999393e0b20fdfc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.1.aar/e8961fb94be195be29e195abedf2ba8c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.1.aar/f822874322ad79a8e8fdf3f7ecc2c10e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/73ddca7b3b3e27ae32b4b1a328743dd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/0c5871fee103052a5f460f9e95cfac2d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ae80ff38948687f3e09619380635eafb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/3ca77ccbd20e44464014bac323040adc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.1.aar/60e006ebc441c30597101d475d7d5840/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:19:11-52
+		INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:22:22-78
+uses-feature#android.hardware.location.gps
+ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:24:19-63
+application
+ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:26:5-39:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/734f35da33bf40f7a4338ae6f46a5954/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/734f35da33bf40f7a4338ae6f46a5954/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/125ad0bf379c28a6ccea870e20976509/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/125ad0bf379c28a6ccea870e20976509/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha06.aar/307571a50dcf95df40f73538d7a3897b/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha06.aar/307571a50dcf95df40f73538d7a3897b/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/bb86f1b118236d936540630749a80cb7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/bb86f1b118236d936540630749a80cb7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/dcda18b3ea52c8643952efc55b75f099/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/dcda18b3ea52c8643952efc55b75f099/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/98504f0c857937193a47dbbb4ebd56bc/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/98504f0c857937193a47dbbb4ebd56bc/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/bb86f1b118236d936540630749a80cb7/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:28:9-36
+	android:theme
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:32:9-40
+	android:name
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:27:9-33
+activity#com.example.android.persistence.ui.MainActivity
+ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:33:9-38:20
+	android:name
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:33:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.2.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.2.1.aar/22ba745f7c32f49bb3627c0dd5c7faae/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.2.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.2.1.aar/22ba745f7c32f49bb3627c0dd5c7faae/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.2.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.2.1.aar/c0877c418a13eba475b0e5908e2fabc4/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.2.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.2.1.aar/c0877c418a13eba475b0e5908e2fabc4/AndroidManifest.xml:22:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/734f35da33bf40f7a4338ae6f46a5954/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/734f35da33bf40f7a4338ae6f46a5954/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/e77e7c33d4ed6fdcc3d92f9da521fc2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/e77e7c33d4ed6fdcc3d92f9da521fc2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/611fabc910fb10342a7e162811f6647b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/611fabc910fb10342a7e162811f6647b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/84d00efc630ee49fcf5f07b2b8417cd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/84d00efc630ee49fcf5f07b2b8417cd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/125ad0bf379c28a6ccea870e20976509/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/125ad0bf379c28a6ccea870e20976509/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha06.aar/307571a50dcf95df40f73538d7a3897b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha06.aar/307571a50dcf95df40f73538d7a3897b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/6ad4ee8d45096df30d9e68c99599ec64/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/6ad4ee8d45096df30d9e68c99599ec64/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fa1939d18519808b4604abae0a24612f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fa1939d18519808b4604abae0a24612f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/c697248ebbc133e5a941fc5d162ab12c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/c697248ebbc133e5a941fc5d162ab12c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/3432a7820b7f35418393337d18b2538f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/3432a7820b7f35418393337d18b2538f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/26caf6f32d2295cdb261f382368bbb1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/26caf6f32d2295cdb261f382368bbb1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/801a8cf4c4f305a8d0a63d9cff6ea235/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/801a8cf4c4f305a8d0a63d9cff6ea235/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/ebad186988379029ef5242321ac7c4ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/ebad186988379029ef5242321ac7c4ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/4aa39f6b95dc0f929098ec229528ae62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/4aa39f6b95dc0f929098ec229528ae62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/03cb87f42b4d2e33c215d130fbff78f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/03cb87f42b4d2e33c215d130fbff78f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/335232e061f0347d0a206744e6b96954/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/335232e061f0347d0a206744e6b96954/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e132bace50cb998450e21792ba39f862/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e132bace50cb998450e21792ba39f862/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/ac6b7b9e07381433e7e1afc867581f96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/ac6b7b9e07381433e7e1afc867581f96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/e2573de6cb6762cca5d4c6a448262bc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/e2573de6cb6762cca5d4c6a448262bc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/10ab1305dbc393d257dd5ec6e85c7d9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/10ab1305dbc393d257dd5ec6e85c7d9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d3e631995b244bd6f37b2ddb71dbe11b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d3e631995b244bd6f37b2ddb71dbe11b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/30032f3bddf6d3e00d317710c0be4eb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/30032f3bddf6d3e00d317710c0be4eb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/bb86f1b118236d936540630749a80cb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/bb86f1b118236d936540630749a80cb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/dcda18b3ea52c8643952efc55b75f099/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/dcda18b3ea52c8643952efc55b75f099/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/7f2f950d96b48060f322503899d76dc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/7f2f950d96b48060f322503899d76dc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/082da13114c7f514325cc8b5ad3b66d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/082da13114c7f514325cc8b5ad3b66d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/98504f0c857937193a47dbbb4ebd56bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/98504f0c857937193a47dbbb4ebd56bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/449189ffb16373cfec1f3d1ac67504be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/449189ffb16373cfec1f3d1ac67504be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2139f8ba5b42b679f0b20eb808e2571c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2139f8ba5b42b679f0b20eb808e2571c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b2707071cc09c2c6cf7ab0af0c88e7ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b2707071cc09c2c6cf7ab0af0c88e7ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/9fc8480188562f7de999393e0b20fdfc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/9fc8480188562f7de999393e0b20fdfc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.1.aar/e8961fb94be195be29e195abedf2ba8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.1.aar/e8961fb94be195be29e195abedf2ba8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.1.aar/f822874322ad79a8e8fdf3f7ecc2c10e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.1.aar/f822874322ad79a8e8fdf3f7ecc2c10e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/73ddca7b3b3e27ae32b4b1a328743dd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/73ddca7b3b3e27ae32b4b1a328743dd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/0c5871fee103052a5f460f9e95cfac2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/0c5871fee103052a5f460f9e95cfac2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ae80ff38948687f3e09619380635eafb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ae80ff38948687f3e09619380635eafb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/3ca77ccbd20e44464014bac323040adc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/3ca77ccbd20e44464014bac323040adc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.1.aar/60e006ebc441c30597101d475d7d5840/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.1.aar/60e006ebc441c30597101d475d7d5840/AndroidManifest.xml:20:5-44
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+		ADDED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha06] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha06.aar/307571a50dcf95df40f73538d7a3897b/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha06] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha06.aar/307571a50dcf95df40f73538d7a3897b/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha06] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha06.aar/307571a50dcf95df40f73538d7a3897b/AndroidManifest.xml:24:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/dcda18b3ea52c8643952efc55b75f099/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/dcda18b3ea52c8643952efc55b75f099/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/dcda18b3ea52c8643952efc55b75f099/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/dcda18b3ea52c8643952efc55b75f099/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/dcda18b3ea52c8643952efc55b75f099/AndroidManifest.xml:24:13-79

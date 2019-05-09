@@ -1,0 +1,4 @@
+#Thu May 09 11:20:36 CST 2019
+base.0=/Users/pengfeixin/AndroidStudioProjects/Android-Architecture-Components/BasicSample/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
