@@ -1,1 +1,1 @@
-include ':app', ':RxJava', ':choice', ':RxJavaKotlin', ':BasicSample', ':GithubSample', ':NavigationSample', ':NavigationBasicSample', ':PagingSample', ':PagingWithNetSample', ':ContentProviderSample', ':MigrationsSample'
+include ':app', ':RxJava', ':choice', ':RxJavaKotlin', ':BasicSample', ':GithubSample', ':NavigationSample', ':NavigationBasicSample', ':PagingSample', ':PagingWithNetSample', ':ContentProviderSample', ':MigrationsSample', ':WorkManagerSample'
