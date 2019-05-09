@@ -1,1 +1,1 @@
-include ':app', ':RxJava', ':choice', ':RxJavaKotlin', ':BasicSample'
+include ':app', ':RxJava', ':choice', ':RxJavaKotlin', ':BasicSample', ':GithubSample'
