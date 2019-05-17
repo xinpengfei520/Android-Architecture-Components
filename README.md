@@ -46,3 +46,5 @@ Room 架构图：
 [https://developer.android.com/topic/libraries/architecture/livedata#java](https://developer.android.com/topic/libraries/architecture/livedata#java)
 
 [Android Architecture Components 只看这一篇就够了](https://juejin.im/post/5b30e39bf265da599423510a)
+
+[带你领略Android Jetpack组件的魅力](https://mp.weixin.qq.com/s/OyimA5CBLlN_LhaGYDUxaA)
